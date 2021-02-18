@@ -9,5 +9,5 @@ huylu mu olduğunu tespit etmektedir.Kullandığım verisetine buradan ulaşabil
 <img src = "./img/scatter_PCA.PNG" ></img>
 <img src = "./img/after_PCA.PNG" ></img></br>
 --> NCA</br>
-<img src = "./img/scatter_PCA.PNG" ></img>
-<img src = "./img/after_PCA.PNG" ></img></br>
+<img src = "./img/after_NCA.PNG" ></img>
+<img src = "./img/after_NCA1.PNG" ></img></br>
